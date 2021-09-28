@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Sep 2021 08:59:26 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Tue, 28 Sep 2021 08:59:26 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>#这是我的第一篇博客
+世界上最美的奇迹 ##　是隔着最远的距离 ##　心与心的相遇
+ ##　世界上最美的奇迹 ##　是飞鸟与鱼 ##　从天际爱到海底
+ ##　世界上最美的奇迹 ##　是在最好的年纪 ##　遇见最初的你
+ ##　世界上最美的奇迹 ##　是冬至春可期 ##　坐看云起 做我自己
+ ##　世界上最美的奇迹 ##　是繁花终落尽 ##　心知有你 欣然老去</description>
+    </item>
+    
+  </channel>
+</rss>
